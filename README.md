@@ -20,6 +20,8 @@ This archive contains the DevCentral wiki for
 * [iRulesLX](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiRulesLX.xml)
 * [iWorkflow](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiWorkflow.xml)
 
+*Note:* github.com does not render the dash-feed:// links in this list.
+
 captured in 22 March 2017.
 
 ## License
