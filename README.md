@@ -8,7 +8,6 @@ This archive contains the DevCentral wiki for
 * [AdvDesignConfig](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FAdvDesignConfig.xml)
 * [BIGIQ](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FBIGIQ.xml)
 * [DevOps](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FDevOps.xml)
-* [HomePage](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FHomePage.xml)
 * [TMSH](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FTMSH.xml)
 * [WebAccelerator](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FWebAccelerator.xml)
 * [iApp](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiApp.xml)
