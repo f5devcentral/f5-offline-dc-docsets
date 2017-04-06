@@ -52,15 +52,15 @@ Once you have your docset reader of choice installed, simply unpack the docsets 
 
 ### Dash
 
-Unpack each `.docset.tgz` by double-clicking them.
-
-Once unpacked, simply open each `.docset` package to have them added to Dash.
+Click on each link in the list of available docsets to add the docset feed to your Dash. Go to the Downloads tab and download each docset you're interested in.
 
 *Tip:* you can customise the shortcuts for Dash docsets by opening Dash, going into preferences (`cmd-comma`) then in the docset tab double-clicking the shortcut column or selecting a docset and pressing `Edit Keyword` button.
 
 ### Velocity
 
-Navigate to Add/Download Docsets, select XCode, then press Import. Open each `.docset.tgz` to add to Velocity
+Download all the `.docset.tgz` files from `docsets` to your PC.
+
+Navigate to Add/Download Docsets, select XCode, then press Import. Open each `.docset.tgz` you're interested in to add to Velocity.
 
 ## Background
 
