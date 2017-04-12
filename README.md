@@ -49,7 +49,7 @@ for Linux, [Zeal](https://zealdocs.org/)
 
 ## Installation
 
-Once you have your docset reader of choice installed, simply unpack the docsets and follow your reader's documentation for loading local files. I recommend adding both the Tcl 8.4 docset for v11 work and Tcl 8.5 for v12+ work as they can be very useful to have to hand.
+Once you have your docset reader of choice installed, simply unpack the docsets and follow your reader's documentation for loading local files. I recommend adding both the Tcl 8.4 docset as they can be very useful to have to hand.
 
 ### Dash
 
