@@ -4,22 +4,22 @@
 
 This archive contains the DevCentral wiki for
 
-* [APM](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FAPM.xml)
-* [AdvDesignConfig](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FAdvDesignConfig.xml)
-* [BIGIQ](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FBIGIQ.xml)
-* [DevOps](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FDevOps.xml)
-* [TMSH](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FTMSH.xml)
-* [WebAccelerator](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FWebAccelerator.xml)
-* [iApp](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiApp.xml)
-* [iCall](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiCall.xml)
-* [iControl](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiControl.xml)
-* [iControlREST](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiControlREST.xml)
-* [iHealth](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiHealth.xml)
-* [iRules](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiRules.xml)
-* [iRulesLX](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiRulesLX.xml)
-* [iWorkflow](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiWorkflow.xml)
+* [APM](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FAPM.xml) ([dash feed](https://tinyurl.com/maxstpd))
+* [AdvDesignConfig](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FAdvDesignConfig.xml) ([dash feed](https://tinyurl.com/k2kqpbn))
+* [BIGIQ](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FBIGIQ.xml) ([dash feed](https://tinyurl.com/l2d5m7p))
+* [DevOps](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FDevOps.xml) ([dash feed](https://tinyurl.com/n5tos6c))
+* [TMSH](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FTMSH.xml) ([dash feed](https://tinyurl.com/mmgkqqr))
+* [WebAccelerator](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FWebAccelerator.xml) ([dash feed](https://tinyurl.com/mkjxbk3))
+* [iApp](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiApp.xml) ([dash feed](https://tinyurl.com/kyvomgd))
+* [iCall](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiCall.xml) ([dash feed](https://tinyurl.com/lx4v2fm))
+* [iControl](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiControl.xml) ([dash feed](https://tinyurl.com/laayjt5))
+* [iControlREST](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiControlREST.xml) ([dash feed](https://tinyurl.com/knmr5uw))
+* [iHealth](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiHealth.xml) ([dash feed](https://tinyurl.com/lqld9gl))
+* [iRules](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiRules.xml) ([dash feed](https://tinyurl.com/nxkk4xs))
+* [iRulesLX](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiRulesLX.xml) ([dash feed](https://tinyurl.com/ltyho7s))
+* [iWorkflow](dash-feed://https%3A%2F%2Fgithub.com%2Ff5devcentral%2Ff5-offline-dc-docsets%2Fraw%2Fmaster%2FiWorkflow.xml) ([dash feed](https://tinyurl.com/m2dw4k2))
 
-*Note:* github.com does not render the dash-feed:// links in this list.
+*Note:* github.com and devcentral.f5.com do not render the raw dash-feed:// links in this list. use the tinyurl.com [dash feed] links to redirect to the proper URL. tinyurl.com does not guarantee these URLs will remain the same, so use sane precautions.
 
 captured in 22 March 2017.
 
