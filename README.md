@@ -21,7 +21,7 @@ This archive contains the DevCentral wiki for
 
 *Note:* github.com and devcentral.f5.com do not render the raw dash-feed:// links in this list. use the tinyurl.com [dash feed] links to redirect to the proper URL. tinyurl.com does not guarantee these URLs will remain the same, so use sane precautions.
 
-captured in 22 March 2017.
+iRules captured May 2019. The rest captured in 22 March 2017.
 
 ## License
 
